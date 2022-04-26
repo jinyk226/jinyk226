@@ -11,6 +11,7 @@ Current learning focuses:
 - JavaScript
 - Relational databases (PSQL)
 - Developing CRUD applications
+- Test-Driven Development (TDD) with Jest
 
 [![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinyk226&theme=github_dark)](https://github.com/jinyk226/github-readme-stats)
 
